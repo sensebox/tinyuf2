@@ -56,7 +56,7 @@
 #define USB_VID                  0x303A
 #define USB_PID                  0x82D3
 #define USB_MANUFACTURER         "senseBox"
-#define USB_PRODUCT              "MCU-Eye ESP32S3"
+#define USB_PRODUCT              "MCU Eye ESP32S3"
 
 #define UF2_PRODUCT_NAME         USB_MANUFACTURER " " USB_PRODUCT
 #define UF2_BOARD_ID             "ESP32S3-senseBox-MCU-Eye"
